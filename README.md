@@ -10,6 +10,7 @@ A collection of SLD examples for creating cartography using GeoServer
 
 ## Points-Size and colour
 Set size and colours for points
+
 ![Image description](https://github.com/magnusnil/GeoServer-SLD/blob/main/Points-Size_and_colour.JPG)
 
 <br/>
