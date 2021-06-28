@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Points-Size_and_colour](#Points-Size_and_colour)
 * [Polygons-Colours](#Polygons-Colours)
-* [Polygons-Transparent_grey_border](#Polygons-Transparent_grey_border)
+* [Polygons-Transparent grey border](#Polygons-Transparent_grey_border)
 <br/>
 
 ## General info
