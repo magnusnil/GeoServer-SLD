@@ -23,7 +23,7 @@ Set colours for polygons using an attribute
 
 <br/>
 
-## Polygons-Transparent_grey_border
+## Polygons-Transparent grey border
 Transparent polygons with grey border
 
 ![Image description](https://github.com/magnusnil/GeoServer-SLD/blob/main/Polygons-Transparent_grey_border.JPG)
